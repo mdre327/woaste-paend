@@ -12,7 +12,9 @@ export default function WoategiPreview({ events }: WoategiPreviewProps) {
   return (
     <section className="woategi-section" id="woategi">
       <div className="section-heading woategi-heading">
-        <p className="eyebrow">Woategi</p>
+        <p className="eyebrow woategi-mark">woastegi ووستگی
+          
+        </p>
         <h2>Clay-fired gatherings, tasting nights, and courtyard chai events.</h2>
       </div>
 

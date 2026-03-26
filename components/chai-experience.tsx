@@ -171,7 +171,7 @@ export default function ChaiExperience({ items }: ChaiExperienceProps) {
     >
       <div className="section-heading experience-heading">
         <p className="eyebrow">Center stage</p>
-        <h2>The kullad stays centered during the signature scroll, then releases into the full menu.</h2>
+        <h2>What begins in a kullad, blossoms into a story of flavors.</h2>
       </div>
 
       <div className="experience-scroll-layout">
@@ -246,7 +246,10 @@ export default function ChaiExperience({ items }: ChaiExperienceProps) {
         <div ref={railRef} className="signature-rail" id="menu">
           <div className="section-heading signature-heading">
             <p className="eyebrow">Signature scroll</p>
-            <h2>The center kullad keeps turning until this scroll section is done.</h2>
+            <h2>
+              Discover the essence of our Signature Kullad, now opening into a
+              world of flavors.
+            </h2>
           </div>
 
           {items.map((item, index) => (
