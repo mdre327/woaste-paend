@@ -19,7 +19,10 @@ export default async function Home() {
             <span className="hero-pill">Events-led chai house</span>
           </div>
           <p className="eyebrow">Clay-fired comfort</p>
-          <h1>woaste-paend turns chai service into a visual, tactile food experience.</h1>
+          <h1 className="hero-wordmark">
+            <span className="hero-wordmark-highlight">woaste-paend</span> turns
+            chai service into a visual, tactile food experience.
+          </h1>
           <p className="hero-description">
             Built around rotating kullad moments, signature pours, and
             event-driven evenings, the house blends mitti warmth with green-blue
