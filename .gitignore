@@ -1,0 +1,14 @@
+.next
+node_modules
+out
+build
+dist
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+data/admin-auth.json
+public/uploads/events
+.env
+.env.local
+.env.*.local

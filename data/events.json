@@ -1,0 +1,98 @@
+[
+  {
+    "id": "sunset-baithak-winter-edition",
+    "seriesId": "sunset-baithak",
+    "title": "Sunset Baithak Winter Edition",
+    "summary": "An open-air winter chai evening with acoustic sets and a slower courtyard service.",
+    "description": "The earlier edition of Sunset Baithak brought acoustic performances, winter spice chai flights, and long-table kullad service into the courtyard for a colder-season version of the house format.",
+    "location": "Woaste Paend Courtyard, Hyderabad",
+    "host": "Woaste Paend House",
+    "startDate": "2026-02-14T18:30:00.000Z",
+    "endDate": "2026-02-14T21:00:00.000Z",
+    "capacity": 90,
+    "accent": "#8d6148",
+    "coverImage": "/events/sunset-cover.svg",
+    "galleryImages": [
+      "/events/sunset-gallery-1.svg",
+      "/events/sunset-gallery-2.svg",
+      "/events/sunset-gallery-3.svg"
+    ]
+  },
+  {
+    "seriesId": "drawing",
+    "title": "sketch-onSpot",
+    "summary": "Sketch on spiot of you",
+    "description": "desc desc",
+    "location": "woaste",
+    "host": "latief artist",
+    "startDate": "2026-03-27T17:04:00.000Z",
+    "endDate": "2026-04-03T17:04:00.000Z",
+    "capacity": 80,
+    "accent": "#cf2507",
+    "coverImage": "/uploads/events/1774544710594-58acebdb-f5bc-4af7-9509-a339ba7d723e-pngtree-indian-chai-in-clay-cup-png-image-17336367.webp",
+    "galleryImages": [
+      "/uploads/events/1774544584973-9b4c4133-69cb-48b1-a42e-fd3ca53b0a50-pngtree-indian-chai-in-clay-cup-png-image-17336367.webp",
+      "/uploads/events/1774544592596-0d4b92a6-cee3-465c-a997-929f39541d84-image.png",
+      "/uploads/events/1774544602346-c0814707-7e9f-4aad-a172-fafc29b6a004-pp.jpg",
+      "/uploads/events/1774544618453-1ab5f543-860a-4fb4-bcfc-b59fcbed45a0-screenshot-2026-02-26-at-4-27-02-pm.png"
+    ],
+    "id": "03193a9b-ba6b-4cf0-bb7b-5cbc9969cfe4"
+  },
+  {
+    "id": "woategi-sunset-baithak",
+    "seriesId": "sunset-baithak",
+    "title": "Sunset Baithak",
+    "summary": "An open-air kullad chai evening with acoustic sets and clay workshops.",
+    "description": "Woategi turns the courtyard into a low-lit chai baithak with live acoustic sessions, hand-painted kullad counters, and a slow-brew menu made for long conversations.",
+    "location": "Woaste Paend Courtyard, Hyderabad",
+    "host": "Woaste Paend House",
+    "startDate": "2026-04-18T18:30:00.000Z",
+    "endDate": "2026-04-18T21:00:00.000Z",
+    "capacity": 120,
+    "accent": "#5f8f72",
+    "coverImage": "/events/sunset-cover.svg",
+    "galleryImages": [
+      "/events/sunset-gallery-1.svg",
+      "/events/sunset-gallery-2.svg",
+      "/events/sunset-gallery-3.svg"
+    ]
+  },
+  {
+    "id": "woategi-monsoon-market",
+    "seriesId": "monsoon-market-pour",
+    "title": "Monsoon Market Pour",
+    "summary": "A rainy-season tea market with snacks, ceramics, and limited chai blends.",
+    "description": "A weekend market built around monsoon chai service, fresh bakery pairings, local ceramic makers, and a special saffron pour line available only during the event.",
+    "location": "Banjara Courtyard Hall",
+    "host": "Woaste Paend x Local Makers",
+    "startDate": "2026-05-02T11:00:00.000Z",
+    "endDate": "2026-05-02T16:00:00.000Z",
+    "capacity": 200,
+    "accent": "#355f85",
+    "coverImage": "/events/market-cover.svg",
+    "galleryImages": [
+      "/events/market-gallery-1.svg",
+      "/events/market-gallery-2.svg",
+      "/events/market-gallery-3.svg"
+    ]
+  },
+  {
+    "id": "woategi-midnight-steam",
+    "seriesId": "midnight-steam-session",
+    "title": "Midnight Steam Session",
+    "summary": "A late-night tasting event for smoky chai flights and dessert pairings.",
+    "description": "A tighter seated tasting featuring the Coastal Blue and Monsoon Saffron signatures, plated desserts, and a guided walk-through of the house spice profiles.",
+    "location": "Studio Room, Woaste Paend",
+    "host": "Head Brew Team",
+    "startDate": "2026-05-16T19:30:00.000Z",
+    "endDate": "2026-05-16T22:00:00.000Z",
+    "capacity": 60,
+    "accent": "#4f8b7e",
+    "coverImage": "/events/midnight-cover.svg",
+    "galleryImages": [
+      "/events/midnight-gallery-1.svg",
+      "/events/midnight-gallery-2.svg",
+      "/events/midnight-gallery-3.svg"
+    ]
+  }
+]

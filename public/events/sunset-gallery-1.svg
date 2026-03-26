@@ -1,0 +1,10 @@
+<svg width="900" height="700" viewBox="0 0 900 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="700" fill="#7C4B35"/>
+  <rect width="900" height="700" fill="url(#g1)"/>
+  <circle cx="710" cy="150" r="110" fill="#F5B784" fill-opacity="0.74"/>
+  <path d="M280 200H620L680 560H220L280 200Z" fill="#C98659"/>
+  <ellipse cx="450" cy="202" rx="172" ry="38" fill="#E6A97A"/>
+  <ellipse cx="450" cy="220" rx="138" ry="24" fill="#643023"/>
+  <text x="70" y="96" fill="#FFF8F1" font-size="46" font-family="Georgia, serif">Acoustic courtyard pour</text>
+  <defs><linearGradient id="g1" x1="744" y1="44" x2="176" y2="652" gradientUnits="userSpaceOnUse"><stop stop-color="#4F7A67"/><stop offset="1" stop-color="#3B241C"/></linearGradient></defs>
+</svg>

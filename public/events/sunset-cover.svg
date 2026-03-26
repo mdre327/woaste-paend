@@ -1,0 +1,18 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#2F4960"/>
+  <rect width="1600" height="900" fill="url(#paint0_linear)"/>
+  <circle cx="1260" cy="170" r="150" fill="#F3B27A" fill-opacity="0.68"/>
+  <ellipse cx="814" cy="760" rx="520" ry="118" fill="#352117" fill-opacity="0.34"/>
+  <path d="M560 250H1040L1120 670H480L560 250Z" fill="#B8744C"/>
+  <ellipse cx="800" cy="250" rx="240" ry="54" fill="#DFA276"/>
+  <ellipse cx="800" cy="270" rx="192" ry="34" fill="#5D2E20"/>
+  <text x="120" y="160" fill="#FFF8F1" font-size="88" font-family="Georgia, serif">Sunset Baithak</text>
+  <text x="122" y="236" fill="#F6E8DB" font-size="28" font-family="Arial, sans-serif">Clay cup evenings under a slow sky</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="1270" y1="72" x2="378" y2="826" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#577A62"/>
+      <stop offset="0.55" stop-color="#9E6344"/>
+      <stop offset="1" stop-color="#341F18"/>
+    </linearGradient>
+  </defs>
+</svg>

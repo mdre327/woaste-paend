@@ -1,0 +1,8 @@
+<svg width="900" height="700" viewBox="0 0 900 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="700" fill="url(#m2)"/>
+  <circle cx="260" cy="336" r="110" fill="#D39A69"/>
+  <circle cx="450" cy="336" r="110" fill="#9DC0C5"/>
+  <circle cx="640" cy="336" r="110" fill="#5F8F72"/>
+  <text x="126" y="104" fill="#FFF8F1" font-size="46" font-family="Georgia, serif">Monsoon tasting line</text>
+  <defs><linearGradient id="m2" x1="92" y1="100" x2="804" y2="612" gradientUnits="userSpaceOnUse"><stop stop-color="#6A4A39"/><stop offset="1" stop-color="#355F85"/></linearGradient></defs>
+</svg>

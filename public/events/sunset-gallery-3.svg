@@ -1,0 +1,9 @@
+<svg width="900" height="700" viewBox="0 0 900 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="700" fill="url(#g3)"/>
+  <ellipse cx="450" cy="580" rx="240" ry="56" fill="#21130F" fill-opacity="0.3"/>
+  <path d="M330 190H570L620 520H280L330 190Z" fill="#BC7D56"/>
+  <ellipse cx="450" cy="190" rx="120" ry="30" fill="#DCA06F"/>
+  <ellipse cx="450" cy="205" rx="96" ry="18" fill="#5A2B1C"/>
+  <text x="96" y="92" fill="#FFF8F1" font-size="44" font-family="Georgia, serif">Late pour service</text>
+  <defs><linearGradient id="g3" x1="126" y1="80" x2="726" y2="664" gradientUnits="userSpaceOnUse"><stop stop-color="#577A62"/><stop offset="1" stop-color="#2B1A14"/></linearGradient></defs>
+</svg>

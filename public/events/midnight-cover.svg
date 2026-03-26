@@ -1,0 +1,11 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="url(#paint0_linear)"/>
+  <circle cx="1240" cy="180" r="120" fill="#B8D5E2" fill-opacity="0.34"/>
+  <ellipse cx="800" cy="758" rx="520" ry="110" fill="#130E11" fill-opacity="0.42"/>
+  <path d="M558 248H1042L1116 666H484L558 248Z" fill="#9B654A"/>
+  <ellipse cx="800" cy="248" rx="242" ry="56" fill="#C78A60"/>
+  <ellipse cx="800" cy="270" rx="194" ry="34" fill="#4F2419"/>
+  <text x="120" y="154" fill="#FFF8F1" font-size="88" font-family="Georgia, serif">Midnight Steam Session</text>
+  <text x="122" y="230" fill="#F6E8DB" font-size="28" font-family="Arial, sans-serif">Late-night tastings, plated desserts, and smoky chai flights</text>
+  <defs><linearGradient id="paint0_linear" x1="300" y1="88" x2="1348" y2="826" gradientUnits="userSpaceOnUse"><stop stop-color="#24405D"/><stop offset="0.56" stop-color="#3A2D38"/><stop offset="1" stop-color="#1B151A"/></linearGradient></defs>
+</svg>

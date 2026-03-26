@@ -1,0 +1,6 @@
+<svg width="900" height="700" viewBox="0 0 900 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="700" fill="url(#n1)"/>
+  <text x="106" y="104" fill="#FFF8F1" font-size="46" font-family="Georgia, serif">Smoke and dessert pairing</text>
+  <ellipse cx="450" cy="556" rx="210" ry="46" fill="#171116" fill-opacity="0.38"/>
+  <defs><linearGradient id="n1" x1="112" y1="76" x2="800" y2="626" gradientUnits="userSpaceOnUse"><stop stop-color="#365F85"/><stop offset="1" stop-color="#291E24"/></linearGradient></defs>
+</svg>

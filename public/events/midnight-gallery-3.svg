@@ -1,0 +1,7 @@
+<svg width="900" height="700" viewBox="0 0 900 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="700" fill="url(#n3)"/>
+  <circle cx="328" cy="350" r="122" fill="#9A674B"/>
+  <circle cx="580" cy="350" r="122" fill="#375F84"/>
+  <text x="118" y="104" fill="#FFF8F1" font-size="46" font-family="Georgia, serif">After-dark steam ritual</text>
+  <defs><linearGradient id="n3" x1="110" y1="90" x2="794" y2="622" gradientUnits="userSpaceOnUse"><stop stop-color="#223C58"/><stop offset="1" stop-color="#523B40"/></linearGradient></defs>
+</svg>
